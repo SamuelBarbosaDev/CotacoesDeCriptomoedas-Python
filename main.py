@@ -5,13 +5,16 @@
 
 #Como? Acompanhar a cotação das criptos.
 
+from email.policy import default
 import json
 from requests import Session
+from decouple import config
 from requests.exceptions import ConnectionError
 from requests.exceptions import Timeout, TooManyRedirects
 
-sua_api_key =                                                                                 "64994445-d3b2-42aa-8660-94cd653cfda6"  
 
+sua_api_key = config('sua_chave', default=None)
+print(sua_api_key)
 url = """
 https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest"""
 
