@@ -22,4 +22,6 @@
     - Python
   
   - Libs:
-    - openpyxl
+    - json
+    - requests 
+    - decouple 
