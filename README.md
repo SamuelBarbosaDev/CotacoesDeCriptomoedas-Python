@@ -32,24 +32,6 @@ Aprendi muito sobre a api do coinmarketing cap.
 
 ## Tecnologias utilizadas:
 
-- Linguagens:
-    - Python
-  
-- Libs:
-    - openpyxl
-
-~~~javascript
-2.28.1
-~~~
-
-~~~python-decouple
-3.6 
-~~~
-
-~~~python
-3.10.6
-~~~
-
 requests  | python-decouple | python
 --------- | --------------- | ---------
 2.28.1    | 3.6             | 3.10.6
