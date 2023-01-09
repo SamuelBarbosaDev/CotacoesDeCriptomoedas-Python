@@ -1,4 +1,4 @@
-# Cotações Das Criptomoedas Python
+# Cryptocurrency Quotes Python
 ## Ambiente virtual e Dependências:
 Criando ambiente virtual:
 ```
