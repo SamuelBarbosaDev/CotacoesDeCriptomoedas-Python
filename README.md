@@ -1,4 +1,4 @@
-# Cotacões Das Criptomoedas Python
+# Cotações Das Criptomoedas Python
 ## Ambiente virtual e Dependências:
 Criando ambiente virtual:
 ```
@@ -14,20 +14,28 @@ Instale as dependências:
 ```
 pip install -r core/requirements.txt
 ```
+
+
 ## Objetivo:
 
-Retorna ás 100 principais criptos.
+Retorna ás 100 às 100 principais criptomoedas.
 
 
 ## Como Funciona:
 
-Basicamente, consumo a api do coinmarketing cap,
+Basicamente, consumo a API do CoinMarketingCap,
 e mostro as informações retornadas.
+
+
+## Observação:
+
+É necessário que você crie uma conta no [CoinMarketCap API](https://pro.coinmarketcap.com/login/)
+para ter acesso ao token de usuário.
 
 
 ## O que aprendi:
 
-Aprendi muito sobre a api do coinmarketing cap.
+Aprendi muito sobre a API do CoinMarketCap.
 
 
 ## Tecnologias utilizadas:
