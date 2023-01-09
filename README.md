@@ -18,7 +18,7 @@ pip install -r core/requirements.txt
 
 ## Objetivo:
 
-Retorna ás 100 às 100 principais criptomoedas.
+Retorna às 100 principais criptomoedas.
 
 
 ## Como Funciona:
